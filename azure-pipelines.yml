@@ -16,7 +16,7 @@ steps:
     azureResourceManagerConnection: 'jesseARM-conn'
     subscriptionId: '2b20cd67-c920-4f7b-bff5-b949683124cf'
     action: 'Create Or Update Resource Group'
-    resourceGroupName: 'AzureRmPipeline-rg'
+    resourceGroupName: 'AzureRmPipeline-rg2'
     location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/cccoder-sha/jesseARM-repo/main/create_web_app/azuredeploy.json'
